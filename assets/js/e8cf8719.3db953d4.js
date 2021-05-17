@@ -1,0 +1,1 @@
+(self.webpackChunkmobile_notes=self.webpackChunkmobile_notes||[]).push([[861],{7015:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/mobile-notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

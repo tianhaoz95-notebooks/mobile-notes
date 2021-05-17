@@ -1,0 +1,1 @@
+(self.webpackChunkmobile_notes=self.webpackChunkmobile_notes||[]).push([[143],{7072:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/mobile-notes/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/mobile-notes/blog/tags/docusaurus"}')}}]);

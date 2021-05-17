@@ -1,0 +1,1 @@
+(self.webpackChunkmobile_notes=self.webpackChunkmobile_notes||[]).push([[167],{9823:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/mobile-notes/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/mobile-notes/blog/tags/facebook"}')}}]);
